@@ -203,22 +203,7 @@ class HeARAnalyzer:
 
 ---
 
-## 📹 Video Demo Script (3 minutes)
 
-### Opening (30 seconds)
-- "Hi, I'm [Name], and this is MedGemma Nexus - an AI clinical assistant that saves doctors 2+ hours per day."
-- Show problem: Doctor overwhelmed with paperwork
-
-### Demo (2 minutes)
-- **Minute 1**: Show SOAP note generation from dialogue
-- **Minute 2**: Show patient explanation + differential diagnosis
-- **Bonus**: Show HeAR acoustic analysis
-
-### Impact (30 seconds)
-- "This saves $46.9M annually, improves 20,000 lives, and works offline in rural clinics."
-- Call to action: "Let's bring AI healthcare to everyone, everywhere."
-
----
 
 ## 📚 References
 
@@ -236,7 +221,7 @@ This is a competition submission, but we welcome feedback and suggestions:
 
 - **Issues**: Report bugs or suggest features
 - **Pull Requests**: Improvements to code or documentation
-- **Contact**: [Your Email]
+- **Contact**: *ashutoshjoshi630@gmail.com*
 
 ---
 
@@ -259,3 +244,4 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
