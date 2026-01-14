@@ -5,7 +5,9 @@
 **Team:** Ashutosh Joshi
 **Date:** January 14, 2026  
 **Competition:** [MedGemma Impact Challenge](https://www.kaggle.com/competitions/med-gemma-impact-challenge)
+
 **Youtube Link:** **https://youtu.be/MCjMJ12rUtU?si=uS_smQEvhd007daM**
+
 **Kaggle Link:** **https://www.kaggle.com/code/ashujoshi23/medgemma-nexus-ai-powered-clinical-system**
 
 ---
@@ -246,6 +248,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
