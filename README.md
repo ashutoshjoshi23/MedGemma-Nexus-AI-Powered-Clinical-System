@@ -149,7 +149,7 @@ pip install google-auth google-auth-oauthlib
 1. **Upload to Kaggle**:
    - Go to [Kaggle Notebooks](https://www.kaggle.com/code)
    - Click "New Notebook" → "Upload Notebook"
-   - Select `MedGemma_Nexus_Solution.ipynb`
+   - Select `medgemma-nexus-ai-powered-clinical-system.ipynb`)
 
 2. **Enable Internet**:
    - Settings → Internet → ON (required to download MedGemma model)
@@ -263,6 +263,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
