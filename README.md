@@ -28,6 +28,7 @@ Using **Google's MedGemma** (medical LLM) and **HeAR** (Health Acoustic Represen
 - ✅ **Patient Education Bridge**: Translates medical jargon → simple language
 - ✅ **Differential Diagnosis Assistant**: Analyzes symptoms → suggests conditions
 - ✅ **Acoustic Health Analyzer**: Detects respiratory issues from cough/breathing sounds
+- ✅ **HIPAA & GDPR Ready:** We have implemented a robust security framework featuring AES-256 encryption, local-first processing, and automatic PII (Personally Identifiable Information) scrubbing to ensure zero data leakage and full clinical compliance.
 
 ---
 
@@ -82,6 +83,8 @@ Using **Google's MedGemma** (medical LLM) and **HeAR** (Health Acoustic Represen
 - **Framework**: Keras 3 with JAX backend
 - **Deployment**: Edge devices (NVIDIA Jetson, hospital servers)
 - **Privacy**: Local inference, no cloud dependency
+- **Interoperability**: FHIR-compliant REST API framework for seamless EHR integration (Epic, Cerner).
+- **Optimization**: QLoRA (4-bit quantization) ready for specialty-specific fine-tuning.
 
 ---
 
@@ -253,6 +256,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
