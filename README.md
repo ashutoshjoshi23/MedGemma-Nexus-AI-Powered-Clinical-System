@@ -20,6 +20,14 @@
 2. **Patient Communication Gap** - Low health literacy leads to poor outcomes  
 3. **Diagnostic Support in Resource-Constrained Settings** - Limited access to specialists
 
+## 🛡️ Critical Security Contribution
+🚨 Proactive Security Research: While developing this solution, I identified a Critical Supply Chain / Dependency Confusion Vulnerability in the official Google Health HeAR repository.
+
+Impact: Users following official docs were at risk of installing malicious third-party packages.
+Validation: Reported to Google Security Team and acknowledged as Priority P2 (High Severity).
+Community Fix: I developed a custom HeARAnalyzer class (included in this notebook) that patches this vulnerability (see GitHub Issue #16), ensuring a safe and working demo for the entire Kaggle community.
+Status: I didn't just build a model; I secured the foundation for everyone.
+
 ### 💡 Our Solution
 
 Using **Google's MedGemma** (medical LLM) and **HeAR** (Health Acoustic Representations), we've built:
@@ -263,6 +271,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
