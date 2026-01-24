@@ -30,6 +30,9 @@ Validation: Reported to Google Security Team and acknowledged as Priority P2 (Hi
 Community Fix: I developed a custom HeARAnalyzer class (included in this notebook) that patches this vulnerability (see GitHub Issue #16), ensuring a safe and working demo for the entire Kaggle community.
 Status: I didn't just build a model; I secured the foundation for everyone.
 
+<img width="608" height="225" alt="Screenshot 2026-01-24 175245" src="https://github.com/user-attachments/assets/cb5fe59c-cef0-4494-b2b5-d96175aec538" />
+
+
 ## 💡 Our Solution
 
 Using **Google's MedGemma** (medical LLM) and **HeAR** (Health Acoustic Representations), we've built:
@@ -273,6 +276,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
