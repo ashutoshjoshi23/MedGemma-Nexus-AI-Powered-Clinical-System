@@ -27,6 +27,7 @@
 
 Impact: Users following official docs were at risk of installing malicious third-party packages.
 Validation: Reported to Google Security Team and acknowledged as Priority P2 (High Severity).
+
 Community Fix: I developed a custom HeARAnalyzer class (included in this notebook) that patches this vulnerability (see GitHub Issue #16), ensuring a safe and working demo for the entire Kaggle community.
 Status: I didn't just build a model; I secured the foundation for everyone.
 
@@ -276,6 +277,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
