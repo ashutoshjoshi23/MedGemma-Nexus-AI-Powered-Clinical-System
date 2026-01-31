@@ -117,6 +117,9 @@ Using **Google's MedGemma** (medical LLM) and **HeAR** (Health Acoustic Represen
 <img width="634" height="344" alt="Screenshot 2026-01-14 135859" src="https://github.com/user-attachments/assets/b7bb092c-135b-4eab-85fe-2191800844ac" />
 <img width="632" height="349" alt="Screenshot 2026-01-14 135827" src="https://github.com/user-attachments/assets/d7fade99-7791-456c-b5cc-8c89c7f1af42" />
 <img width="701" height="371" alt="Screenshot 2026-01-14 112953" src="https://github.com/user-attachments/assets/4d913fd0-a6f0-4715-8b90-46bddfd5e1e0" />
+<img width="457" height="250" alt="Screenshot 2026-01-21 194724" src="https://github.com/user-attachments/assets/c30fc67d-8389-4564-ac61-c9df7a3120bf" />
+<img width="451" height="253" alt="Screenshot 2026-01-21 194635" src="https://github.com/user-attachments/assets/34cca0cd-1966-406a-b782-69b9b7e2578d" />
+
 
 ### Social Impact
 
@@ -277,6 +280,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
