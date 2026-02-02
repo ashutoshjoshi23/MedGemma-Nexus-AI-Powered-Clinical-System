@@ -32,6 +32,8 @@ Community Fix: I developed a custom HeARAnalyzer class (included in this noteboo
 Status: I didn't just build a model; I secured the foundation for everyone.
 
 <img width="608" height="225" alt="Screenshot 2026-01-24 175245" src="https://github.com/user-attachments/assets/cb5fe59c-cef0-4494-b2b5-d96175aec538" />
+<img width="460" height="201" alt="Screenshot 2026-01-22 175638" src="https://github.com/user-attachments/assets/3fb8f121-8e11-4849-816e-63479c439d35" />
+
 
 
 ## 💡 Our Solution
@@ -280,6 +282,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
