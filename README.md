@@ -28,7 +28,8 @@
 Impact: Users following official docs were at risk of installing malicious third-party packages.
 Validation: Reported to Google Security Team and acknowledged as Priority P2 (High Severity).
 
-Community Fix: I developed a custom HeARAnalyzer class (included in this notebook) that patches this vulnerability (see GitHub Issue #16), ensuring a safe and working demo for the entire Kaggle community.
+Community Fix: I developed a custom HeARAnalyzer class (included in this notebook) that patches this vulnerability (see GitHub Issue #16), ensuring a safe and working demo for the entire Kaggle community. 
+HeAR API Integration (PATCHED)" This repository provides a robust, security-first implementation of Google Health's HeAR API, fixing the missing 'api_utils' dependency confusion risk
 Status: I didn't just build a model; I secured the foundation for everyone.
 
 <img width="608" height="225" alt="Screenshot 2026-01-24 175245" src="https://github.com/user-attachments/assets/cb5fe59c-cef0-4494-b2b5-d96175aec538" />
@@ -282,6 +283,7 @@ Code is released under Apache 2.0 License.
 **Built with ❤️ for the MedGemma Impact Challenge**
 
 🏆 **Let's revolutionize healthcare together!**
+
 
 
 
