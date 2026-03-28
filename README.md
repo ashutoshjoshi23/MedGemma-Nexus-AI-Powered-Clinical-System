@@ -32,6 +32,8 @@ Validation: Reported to Google Security Team and acknowledged as Priority P2 (Hi
 
 - HeAR API Integration (PATCHED)" This repository provides a robust, security-first implementation of Google Health's HeAR API, fixing the missing 'api_utils' dependency confusion risk
 
+- Acknowledged with an Honorable Mention by the VRP Panel, and featured in the Google Hall of Fame 2026 for valuable contributions.
+
 Status: I didn't just build a model; I secured the foundation for everyone.
 
 <img width="608" height="225" alt="Screenshot 2026-01-24 175245" src="https://github.com/user-attachments/assets/cb5fe59c-cef0-4494-b2b5-d96175aec538" />
